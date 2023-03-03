@@ -1,0 +1,22 @@
+.pai {
+    width: 80%;
+    height: 350px;
+    background-color: #840301;
+    border: solid 20px #5b0000;
+    border-radius: 8px;
+    margin: auto;
+    margin-top: 80px;
+    display: flex;
+
+    align-items: center; /* move os itens para o centro*/
+    /* align-items: end;  = move os itens para o fim da caixa*/
+    
+    justify-content: center;
+}
+
+.bolinha {
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+    background-color: #ffbf8e;
+}

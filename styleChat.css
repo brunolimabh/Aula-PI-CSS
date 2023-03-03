@@ -1,0 +1,53 @@
+html {
+    background-color: #d08eff;
+}
+
+.colu {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+}
+
+.titulo {
+    font-family: monospace; 
+    color: #d08eff;
+    font-size: 40px;
+}
+
+.cursive {
+    font-family: cursive;
+    color: aliceblue;
+}
+
+
+.pai {
+    padding: 30px;
+    background-color: #754bfc ; 
+    width: 35%; height: 225px; 
+    border: solid 3px #1908f9; 
+    border-radius: 15px;
+    margin: 30px 20px 0px 20px;
+    box-shadow: 3px 5px 20px;
+}
+
+
+.caixa {
+    background-color: #d08eff; 
+    width: 100px; 
+    height: 100px; 
+    border-radius: 10px;
+    box-shadow: 3px 5px 20px;
+}
+
+.yuri {
+    width: 100%; 
+    width: 77px; 
+    border-radius: 10px; 
+    padding-left: 14px;
+}
+
+.bruno {
+    width: 100%;
+    width: 82px;
+
+}
